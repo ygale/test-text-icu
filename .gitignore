@@ -1,0 +1,19 @@
+# Haskell temp files
+.cabal-sandbox/
+cabal.sandbox.config
+dist/
+.hpc/
+*.hi
+*.o
+*.p_hi
+*.prof
+*.tix
+
+# editor temp files
+*#
+.#*
+*~
+.*.swp
+
+# TAGS files
+TAGS
