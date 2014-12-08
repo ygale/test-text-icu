@@ -19,7 +19,7 @@ executable test-text-icu
   main-is:             test-text-icu.hs
   -- other-modules:       
   -- other-extensions:    
-  build-depends:       base >=4.7 && <4.8
+  build-depends:       base >=4.6 && <4.8
                        , text-icu
                        , text
   default-language:    Haskell2010
